@@ -10,6 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Prerequisites
 
 1. Install the node packages
-2. Create a Contentstack Stack with a `page` content type and two text fields fields: `headline` and `description`
-3. Add the Environment variables
+2. Create a Contentstack Stack with a `page` content type and two text fields: `headline` and `description`
+3. Create an Entry and publish the content (Remember, this isn't a Live Preview, so only the published content will be visible in the Preview Window.)
 4. Configure the [Live Preview](https://www.contentstack.com/docs/developers/set-up-live-preview) in Contentstack.
+5. Add the Environment variables
